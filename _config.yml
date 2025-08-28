@@ -60,7 +60,7 @@ pageviews:
 # --- Look & feel ---
 theme_mode:       dark # [light | dark] (empty = system default)
 cdn:
-avatar: /assets/img/avatar.png   # put an image there or leave blank
+avatar: /assets/Profile_Pic.jpg  # put an image there or leave blank
 social_preview_image:            # e.g., /assets/img/og-cover.png
 toc: true
 
