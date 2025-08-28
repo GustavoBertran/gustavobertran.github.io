@@ -1,3 +1,5 @@
+url: "https://gustavobertran.github.io"
+baseurl: ""
 # The Site Configuration
 theme: jekyll-theme-chirpy
 lang: en
@@ -18,11 +20,11 @@ github:
   username: GustavoBertran
 
 twitter:
-  username: @GustiBertran  # or leave blank/remove
+  username: GustiBertran  # or leave blank/remove
 
 social:
   name: Gustavo Bertran
-  email: YOUREMAIL@example.com
+  email: gustavobertran1@gmail.com
   links:
     - https://twitter.com/GustiBertran
     - https://github.com/GustavoBertran
@@ -61,7 +63,7 @@ pageviews:
 theme_mode:       dark # [light | dark] (empty = system default)
 cdn:
 avatar: /assets/Profile_Pic.jpg  # put an image there or leave blank
-social_preview_image:            # e.g., /assets/img/og-cover.png
+social_preview_image: /assets/Profile_Pic.jpg            # e.g., /assets/img/og-cover.png
 toc: true
 
 comments:
