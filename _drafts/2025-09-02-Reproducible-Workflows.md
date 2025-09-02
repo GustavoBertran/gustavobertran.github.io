@@ -1,0 +1,75 @@
+---
+layout: post
+title: "Reproducible Workflows"
+author: "Gustavo Bertrán"
+date: "2025-09-02 18:44:02 -0400"
+categories: ["R Basics"]
+tags: ["Workflows"]
+output:
+  md_document:
+    variant: gfm
+    preserve_yaml: true
+---
+
+*Last updated:* 2025-09-02 18:44:02
+
+# What is reproducible science?
+
+- Reproducible science is the practice of conducting research in a way
+  that allows others to **verify, replicate, and build upon the
+  findings**. It involves documenting and sharing all aspects of the
+  research process, including data collection, analysis, and
+  interpretation.
+
+# Types of reproducibility
+
+- **Methods Reproducibility**: refers to the provision of enough detail
+  about study procedures and data so the same procedures could be
+  exactly repeated with the same data
+- **Results Reproducibility** refers to obtaining the same results from
+  the conduct of an independent study whose procedures are as closely
+  matched to the original experiment as possible with independent data.
+
+# Why is it important?
+
+- **Transparency**: Reproducible workflows enhance the transparency of
+  research allowing others to understand how results were obtained.
+- **Verification**: They enable other researchers to verify findings,
+  which is crucial for building trust in scientific results.
+- **Collaboration**; Reproducible workflows facilitate collaboration
+  among researchers, as they can easily share and build upon each
+  other’s work.
+- **Efficiency**: They save time and resources by allowing researchers
+  to reuse code and data rather than starting from scratch.
+
+# Key components of reproducible workflows
+
+1.  **Version Control**: Using tools like Git to track changes in code
+    and documents over time.
+2.  **Documentation**: Providing clear and comprehensive documentation
+    of the research process, including code comments and README files.
+3.  **Data Management**: Organizing and storing data in a way that is
+    accessible and understandable to others.
+4.  **Automation**: Using scripts and tools to automate repetitive
+    tasks, reducing the risk of human error.
+5.  **Testing**: Implementing tests to ensure that code works as
+    intended and produces consistent results.
+6.  **Sharing**: Making code, data, and documentation publicly available
+    through platforms like GitHub, Zenodo, or institutional
+    repositories.
+
+# README files
+
+- A **README file** is a text file that provides information about a
+  project, including its purpose, how to use it, and an dependiencies or
+  requirements.
+
+# Basic structure of a README file
+
+1.  Project Title: Brief and descriptive title of the project
+2.  Description: Short summary of the project’s purpose and goals
+3.  Installation
+4.  Usage
+5.  License
+6.  Contact Information
+7.  Acknowledgments
