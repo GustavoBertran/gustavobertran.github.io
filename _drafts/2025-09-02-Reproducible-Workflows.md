@@ -2,7 +2,7 @@
 layout: post
 title: "Reproducible Workflows"
 author: "Gustavo Bertrán"
-date: "2025-09-02 18:44:02 -0400"
+date: "2025-09-02 18:47:39 -0400"
 categories: ["R Basics"]
 tags: ["Workflows"]
 output:
@@ -11,7 +11,7 @@ output:
     preserve_yaml: true
 ---
 
-*Last updated:* 2025-09-02 18:44:02
+*Last updated:* 2025-09-02 18:47:39
 
 # What is reproducible science?
 
