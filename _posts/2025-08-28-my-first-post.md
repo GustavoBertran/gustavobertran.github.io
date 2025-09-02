@@ -7,3 +7,4 @@ programming. Currently, I am learning about R Studio and Bash. So far
 this is what I’ve been able to make so far (with a little help of
 course). My goal is to be a profficient and talented coder so I can
 analyze biological data while processing it too.
+[Homework 1](C:/Users/gbert/OneDrive/Documents/Intro R/Project R)

@@ -1,15 +1,17 @@
 ---
-title: "Reproducible Workflows"
-author: "Gustavo Bertrán"
-date: "2025-09-02 16:19:44 -0400"
-categories: [R Basics]
-tags: [Workflows]
+layout: post
+title: Reproducible Workflows
+author: Gustavo Bertrán
+date: '2025-09-02 16:32:05 -0400'
+categories:
+- R Basics
+tags:
+- Workflows
 output:
   md_document:
     variant: gfm
     preserve_yaml: true
 ---
-
 # What is reproducible science?
 
 - Reproducible science is the practice of conducting research in a way
