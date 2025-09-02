@@ -22,3 +22,17 @@
     research allowing others to understand how results were obtained.
 -   **Verification**: They enable other researchers to verify findings,
     which is crucial for building trust in scientific results.
+-   **Collaboration**; Reproducible workflows facilitate collaboration
+    among researchers, as they can easily share and build upon each
+    other’s work.
+-   **Efficiency**: They save time and resources by allowing researchers
+    to reuse code and data rather than starting from scratch.
+
+# Key components of reproducible workflows
+
+1.  **Version Control**: Using tools like Git to track changes in code
+    and documents over time.
+2.  **Documentation**: Providing clear and comprehensive documentation
+    of the research process, including code comments and README files.
+3.  **Data Management**: Organizing and storing data in a way that is
+    accessible and understandable to others.
