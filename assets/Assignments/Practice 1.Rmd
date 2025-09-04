@@ -12,12 +12,27 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ```{r, message =FALSE}
-install.packages(ggplot)
+#install.packages(ggplot)
 ```
 # ask for help with '?'
 ```{r}
 # ?lm
 # ?ggplot
+
 ```
+
+# Symbols in R
+-  '<-' : Assignment operator, used to assign values to variables.
+-  '#' : Comment symbol, used to add comments in the code.
+-  '==' : Equality operator, used to compare two values.
+'-  =' : Assignment operator, can also be used to assign values to variables (less common in R).
+-  '+, -, *, /' : Arithmetic operators for addition, subtraction, multiplication, and division.
+-  ->, <, >=, <=' : Relational operators for comparisons.
+-  '&' : Logical AND operator.
+-  '~' : model formula operator, used in statistical modeling.
+-  '$' : Used to access elements of a list or data frame.
+-  ':' : Sequence operator, used to create sequences of numbers.
+-  'c()' : Combine function, used to create vectors.
+-  '()- : Parentheses, used to group expressions and control order of operations.
 
 
