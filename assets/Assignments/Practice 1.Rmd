@@ -2,7 +2,7 @@
 layout: post
 title: "R syntax"
 author: "Gustavo Bertrán"
-date: "`r format(Sys.time(), '%Y-%m-%d %H:%M:%S')`"
+date: "`r format(Sys.time(), '%Y-%m-%d %H:%M:%S %z')`"
 output: html_document
  
 ---
@@ -10,4 +10,14 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+```{r, message =FALSE}
+install.packages(ggplot)
+```
+# ask for help with '?'
+```{r}
+# ?lm
+# ?ggplot
+```
+
 
