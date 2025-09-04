@@ -1,0 +1,13 @@
+---
+layout: post
+title: "R syntax"
+author: "Gustavo Bertrán"
+date: "`r format(Sys.time(), '%Y-%m-%d %H:%M:%S')`"
+output: html_document
+ 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+

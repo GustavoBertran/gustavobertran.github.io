@@ -52,3 +52,5 @@ knitr::opts_chunk$set(echo = TRUE)
 5.  License
 6.  Contact Information
 7.  Acknowledgments
+
+[Practice 1](/assets/Assignments/Practice 1.Rmd)
