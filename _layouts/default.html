@@ -28,7 +28,7 @@ layout: compress
             {% if layout.refactor or layout.layout == 'default' %}
               {% include refactor-content.html content=content lang=lang %}
             {% else %}
-            {{ "now" | date: "%Y-%m-%d %H:%M:%S" }}
+            <p>Site built on: {{ "now" | date: "%Y-%m-%d %H:%M:%S" }}</p>
               {{ content }}
             {% endif %}
           </main>
