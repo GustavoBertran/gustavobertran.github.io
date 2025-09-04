@@ -2,7 +2,7 @@
 layout: post
 title: "R syntax"
 author: "Gustavo Bertrán"
-date: "`r format(Sys.time(), '%Y-%m-%d %H:%M:%S %z')`"
+date: "{{ 'now' | date: '%Y-%m-%d %H:%M:%S %z' }}"
 output: html_document
  
 ---
